@@ -8,17 +8,17 @@
   </url>
   
   <url>
-    <loc>https://gillilanda.github.io/categories/</loc>
-    <lastmod>2020-10-13T20:27:26-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gillilanda.github.io/fieldwork/</loc>
     <lastmod>2020-10-13T20:27:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gillilanda.github.io/category/research/</loc>
+    <loc>https://gillilanda.github.io/tag/research/</loc>
+    <lastmod>2020-10-13T20:27:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillilanda.github.io/tags/</loc>
     <lastmod>2020-10-13T20:27:26-07:00</lastmod>
   </url>
   
@@ -43,16 +43,15 @@
   </url>
   
   <url>
-    <loc>https://gillilanda.github.io/tags/</loc>
-    <lastmod>2020-10-12T11:58:54-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gillilanda.github.io/author/amy-gilliland/</loc>
   </url>
   
   <url>
     <loc>https://gillilanda.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gillilanda.github.io/categories/</loc>
   </url>
   
   <url>

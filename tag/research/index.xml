@@ -5,7 +5,7 @@
     <link>https://gillilanda.github.io/tag/research/</link>
       <atom:link href="https://gillilanda.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
     <description>research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Amy Gilliland 2020</copyright><lastBuildDate>Tue, 13 Oct 2020 19:12:16 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Amy Gilliland 2020</copyright><lastBuildDate>Tue, 13 Oct 2020 20:27:26 -0700</lastBuildDate>
     <image>
       <url>https://gillilanda.github.io/images/icon_hu88c59e1c599fb220925594d447676a0e_17444_512x512_fill_lanczos_center_2.png</url>
       <title>research</title>
@@ -15,9 +15,10 @@
     <item>
       <title>Test Post</title>
       <link>https://gillilanda.github.io/fieldwork/test-post/</link>
-      <pubDate>Tue, 13 Oct 2020 19:12:16 -0700</pubDate>
+      <pubDate>Tue, 13 Oct 2020 20:27:26 -0700</pubDate>
       <guid>https://gillilanda.github.io/fieldwork/test-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is a test post for the fieldwork page.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
