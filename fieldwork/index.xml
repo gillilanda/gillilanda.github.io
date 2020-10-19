@@ -7,7 +7,7 @@
     <description>Fieldwork</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Amy Gilliland 2020</copyright><lastBuildDate>Tue, 13 Oct 2020 20:27:26 -0700</lastBuildDate>
     <image>
-      <url>https://gillilanda.github.io/fieldwork/featured.jpeg</url>
+      <url>https://gillilanda.github.io/fieldwork/featured.jpg</url>
       <title>Fieldwork</title>
       <link>https://gillilanda.github.io/fieldwork/</link>
     </image>
@@ -17,7 +17,8 @@
       <link>https://gillilanda.github.io/fieldwork/ss_gps/</link>
       <pubDate>Tue, 13 Oct 2020 20:27:26 -0700</pubDate>
       <guid>https://gillilanda.github.io/fieldwork/ss_gps/</guid>
-      <description>&lt;p&gt;This is a test post for the fieldwork page. Test.&lt;/p&gt;
+      <description>&lt;p&gt;Fall quarter of 2018 I was a student in CWU’s field geodetics course taught by Dr. Tim Melbourne, Director of the Pacific Northwest Geodetic Array (PANGA). To kick off the class, we embarked on a trip to South Sister Volcano, Oregon from September 15th – 18th. During this trip, we backpacked with precision GPS equipment to known benchmarks, then left the GPS receivers to collect data for one day. We endured freezing temperatures and even snow during our trip, however, the beautiful scenery made the chilly weather worth it. On the final day of our trip, we retrieved the GPS receivers and departed South Sister Volcano.&lt;/p&gt;
+&lt;p&gt;The remainder of the course was spent downloading, processing, and modeling our measurements and comparing to previous years, to image the volcanic inflationary signal and estimate the rate of filing of the magma chamber under South Sister Volcano.&lt;/p&gt;
 </description>
     </item>
     
