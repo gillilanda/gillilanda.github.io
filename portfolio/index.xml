@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio | Amy Gilliland</title>
+    <title>Fieldwork | Amy Gilliland</title>
     <link>https://gillilanda.github.io/portfolio/</link>
       <atom:link href="https://gillilanda.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <description>Portfolio</description>
+    <description>Fieldwork</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Amy Gilliland 2020</copyright><lastBuildDate>Tue, 13 Oct 2020 20:27:26 -0700</lastBuildDate>
     <image>
       <url>https://gillilanda.github.io/images/icon_hu88c59e1c599fb220925594d447676a0e_17444_512x512_fill_lanczos_center_2.png</url>
-      <title>Portfolio</title>
+      <title>Fieldwork</title>
       <link>https://gillilanda.github.io/portfolio/</link>
     </image>
     
