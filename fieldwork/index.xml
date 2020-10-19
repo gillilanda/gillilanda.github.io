@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fieldwork | Amy Gilliland</title>
+    <title>Fieldworks | Amy Gilliland</title>
     <link>https://gillilanda.github.io/fieldwork/</link>
       <atom:link href="https://gillilanda.github.io/fieldwork/index.xml" rel="self" type="application/rss+xml" />
-    <description>Fieldwork</description>
+    <description>Fieldworks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Amy Gilliland 2020</copyright><lastBuildDate>Tue, 13 Oct 2020 20:27:26 -0700</lastBuildDate>
     <image>
-      <url>https://gillilanda.github.io/fieldwork/featured.jpeg</url>
-      <title>Fieldwork</title>
+      <url>https://gillilanda.github.io/images/icon_hu88c59e1c599fb220925594d447676a0e_17444_512x512_fill_lanczos_center_2.png</url>
+      <title>Fieldworks</title>
       <link>https://gillilanda.github.io/fieldwork/</link>
     </image>
-    
-    <item>
-      <title>Geodesy of South Sister Volcano, OR </title>
-      <link>https://gillilanda.github.io/fieldwork/ss_gps/</link>
-      <pubDate>Tue, 13 Oct 2020 20:27:26 -0700</pubDate>
-      <guid>https://gillilanda.github.io/fieldwork/ss_gps/</guid>
-      <description>&lt;p&gt;Fall quarter of 2018 I was a student in CWU’s field geodetics course taught by Dr. Tim Melbourne, Director of the Pacific Northwest Geodetic Array (PANGA). To kick off the class, we embarked on a trip to South Sister Volcano, Oregon from September 15th – 18th. During this trip, we backpacked with precision GPS equipment to known benchmarks, then left the GPS receivers to collect data for one day. We endured freezing temperatures and even snow during our trip, however, the beautiful scenery made the chilly weather worth it. On the final day of our trip, we retrieved the GPS receivers and departed South Sister Volcano.&lt;/p&gt;
-&lt;p&gt;The remainder of the course was spent downloading, processing, and modeling our measurements and comparing to previous years, to image the volcanic inflationary signal and estimate the rate of filing of the magma chamber under South Sister Volcano.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
