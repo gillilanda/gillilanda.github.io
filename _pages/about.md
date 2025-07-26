@@ -24,7 +24,7 @@ Remote Sensing
 ## Education
 **M.S. in Geology, 2025**  
 Central Washington University  
-Thesis title: Temporal Constraints of Tectonic Events in the Southern Transantarctic Mountains, Antarctica from Geomorphic Analysis
+*Thesis title: Temporal Constraints of Tectonic Events in the Southern Transantarctic Mountains, Antarctica from Geomorphic Analysis*  
 **B.S. in Geology, 2018**  
 Central Washington University
 
