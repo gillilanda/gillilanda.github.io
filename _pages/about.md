@@ -50,4 +50,7 @@ Puget Sound Energy
 -	Effectively communicated the science of wind turbines to visitors through interactive tours of operational wind turbines
 -	Developed and implemented exciting outreach events for the public
 
-
+![ ](/assets/images/bio1.jpeg)
+![ ](/assets/images/bio2.jpeg)
+![ ](/assets/images/bio3.jpeg)
+![ ](/assets/images/bio4.jpeg)
