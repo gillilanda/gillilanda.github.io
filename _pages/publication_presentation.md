@@ -24,5 +24,7 @@ Sadowski, A. J.; **Gilliland, A. L.**; Anderson, M. L., 2021, Geologic map of th
 
 **Amy Gilliland,** Audrey Huerta. "Quantitative Geomorphic Analysis of the Transantarctic Drainage Systems". Murdock College Science Conference. November 2017. Invited Poster Presentation. 
 
-![Student presents research poster](/assets/images/presentation.jpeg)
+---
+
+![Student presents research poster](/assets/images/presentation.jpeg)  
 *GSA Cordilleran, 2019*
