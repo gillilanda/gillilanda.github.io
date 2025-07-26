@@ -49,7 +49,6 @@ Central Washington University
 *Puget Sound Energy*  
 -	Effectively communicated the science of wind turbines to visitors through interactive tours of operational wind turbines
 -	Developed and implemented exciting outreach events for the public
-
-
+---
 ![Two students discuss rock outcrop](/assets/images/bio1.jpeg)
 *Chelan Migmatite Complex, Washington*
