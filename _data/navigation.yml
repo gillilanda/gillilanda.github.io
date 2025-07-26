@@ -8,8 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-#  - title: "Publications & Presentations"
-#    url: /usr/src/app/_pages/publication_presentation.md
+
+  - title: "Publications & Presentations"
+    url: /publication_presentation/
 
   - title: "Field Work"
     url: /talks/    
@@ -23,8 +24,8 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "publication_presentation"
-    url: /publication_presentation/
+#  - title: "Publications & Presentations"
+#    url: /publication_presentation/
     
  # - title: "CV"
  #   url: /cv-json/
