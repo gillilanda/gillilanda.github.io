@@ -16,8 +16,8 @@ Amy began her career as an Assistant Field Geologist with the Washington Geologi
 ## Interests
 Landscape Evolution  
 Geomorphology  
-Science Communication 
-Geologic Mapping
+Science Communication  
+Geologic Mapping  
 Cryosphere  
 Remote Sensing
 
