@@ -47,4 +47,4 @@ Puget Sound Energy
 -	Effectively communicated the science of wind turbines to visitors through interactive tours of operational wind turbines
 -	Developed and implemented exciting outreach events for the public
 
-![2017 Central Washington University Field Camp](/assets/images/geol4901.jpeg)
+![2017 CWU Geology Field Camp](/assets/images/geol4901.jpeg)
