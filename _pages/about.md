@@ -11,7 +11,7 @@ Amy is a Data Support Specialist at the National Snow and Ice Data Center (NSIDC
 Amy began her career as an Assistant Field Geologist with the Washington Geologic Survey, where she spent a year contributing to field mapping and geologic research. She later transitioned to her current role at the NSIDC, one of NASA's Distributed Active Archive Centers. At the NSIDC, Amy helps manage and disseminate NASA data related to the cryosphere, including data derived from the Soil Moisture Active Passive (SMAP), Aquarius, Scanning Multichannel Microwave Radiometer (SMMR), Special Sensor Microwave/Imager (SSM/I), and Special Sensor Microwave Imager/Sounder (SSMIS) missions. She utilizes her knowledge of these data products to represent the user perspective in data product archival and publication work, and to collaborate directly with users to answer questions/solve problems using NSIDC data.
 
 ![2017 CWU Geology Field Camp](/assets/images/geol4901.jpeg)
-*Devils Beadstead, Idaho*
+*Devils Bedstead, Idaho*
 
 ## Interests
 Landscape Evolution  
