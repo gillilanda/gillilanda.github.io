@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications & Presentations"
-    url: /publication_presentation/
+    url: /usr/src/app/_pages/publication_presentation.md
 
   - title: "Field Work"
     url: /talks/    
