@@ -12,7 +12,6 @@ redirect_from:
 ### Publications
 
 Sadowski, A. J.; **Gilliland, A. L.**; Anderson, M. L., 2021, Geologic map of the Colockum Pass SW and southern half of the Naneum Canyon 7.5-minute quadrangles, Kittitas County, Washington: Washington Geological Survey Map Series 2021-03, 1 sheet, scale 1:24,000, 23 p. text.
-
 [Download publication here.](https://www.dnr.wa.gov/publications/ger_ms2021-03_geol_map_colockum_pass_sw_southern_naneum_canyon_24k.zip)
 
 ### Presentations
@@ -25,3 +24,5 @@ Sadowski, A. J.; **Gilliland, A. L.**; Anderson, M. L., 2021, Geologic map of th
 
 **Amy Gilliland,** Audrey Huerta. "Quantitative Geomorphic Analysis of the Transantarctic Drainage Systems". Murdock College Science Conference. November 2017. Invited Poster Presentation. 
 
+![Student presents research poster](/assets/images/presentation.jpeg)
+*GSA Cordilleran, 2019*
