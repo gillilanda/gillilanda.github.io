@@ -26,11 +26,10 @@ Central Washington University
 ## Professional Experience
 **Data Support Specialist, 2021-present**  
 National Snow and Ice Data Center  
--	Developed a detailed knowledge of NSIDC data products
--	Review sample data, metadata, and user guides
+-	Develop a detailed knowledge of NSIDC data products
+-	Review sample data, metadata, user guides and test software updates to tool and web applications 
 -	Develop user support material, including tutorials and help documentation
 -	Investigate and respond to all incoming user requests through email, request forms, or phone
--	Test software updates to tool and web applications 
 
 **Assistant Mapping Geologist, 2020-2021**  
 Washington Geologic Survey  
@@ -48,4 +47,4 @@ Puget Sound Energy
 -	Effectively communicated the science of wind turbines to visitors through interactive tours of operational wind turbines
 -	Developed and implemented exciting outreach events for the public
 
-
+![2017 Central Washington University Field Camp](/assets/images/geol4901.jpeg)
