@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "profile.jpeg"
+  name             : "Amy Gilliland"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Boulder, CO"
+  employer         : "National Snow and Ice Data Center"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "amy.gilliland@colorado.edu" 
 
   # Academic websites
   academia         : # URL
