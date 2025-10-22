@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Amy Gilliland
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Amy
+last_name: Gilliland
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: She/Her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,81 +23,101 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Data Support Specialist/Associate Scientist II
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: National Snow and Ice Data Center
+    url: https://nsidc.org/home
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:amy.gilliland@colorado.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  #- icon: brands/x
+  #  url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/gillilanda
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/amylgilliland/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=fMAk3wgAAAAJ&hl=en
+ # - icon: academicons/orcid
+ #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Landscape Evolution
+  - Geomorphology
+  - Science Communication
+  - Geologic Mapping
+  - Cryosphere
+  - Remote Sensing
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: MS Geological Sciences
+    institution: Central Washington University
+    date_start: 2018-09-01
+    date_end: 2025-06-30
+    summary: |
+      Thesis title: Temporal Constraints of Tectonic Events in the Southern Transantarctic Mountains, Antarctica from Geomorphic Analysis
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com/thesis.pdf'
+  - area: BS Geological Sciences
+    institution: Central Washington University
     date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+    date_end: 2018-05-31
+ #   summary: |
+ #     GPA: 4.0/4.0
+ #
+ #     Specialized in machine learning and robotics.
+ # - area: BS Computer Science
+ #   institution: MIT
+ #   date_start: 2009-09-01
+ #   date_end: 2013-05-31
+ #   summary: |
+ #     GPA: 3.9/4.0
+ #
+ #     Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Data Support Specialist/Associate Scientist II
+    company_name: National Snow and Ice Data Center
+    company_url: 'https://nsidc.org/home'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2021-09-07
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      •	Develop a detailed knowledge of NSIDC data products
+      •	Review sample data, metadata, user guides and test software updates to tool and web applications
+      •	Develop user support material, including tutorials and help documentation
+      •	Investigate and respond to all incoming user requests through email, request forms, and phone
+  - position: Assistant Mapping Geologist
+    company_name: Washington Geologic Survey
+    company_url: 'https://dnr.wa.gov/washington-geological-survey'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2020-06-01
+    date_end: 2021-08-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
+      •	Utilized a combination of traditional and remote mapping methods, including Lidar and aerial imagery, to create a 1:24,000 scale geologic map in Central Washington
+      •	Conducted a geomorphic mapping analysis of landforms using Lidar imagery in ArcGIS. Applied the spatial analyst and 3D analyst tools
+      •	Extensive experience using ArcGIS Pro to input and edit geologic data as a part of the Data Preservation project
+      •	Collaborated with scientists to compile historical and recent thin section data for public use
+  - position: Graduate Teaching Assistant
+    company_name: Central Washington University
+    company_url: 'https://www.cwu.edu/'
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2021-06-30
+    summary: |
+      Successfully conveyed challenging geologic concepts to diverse groups of students in courses including: 
+      • Sedimentology & Stratigraphy
+      • Quantitative Methods
+      • Introductory Geology Lab
+      • Senior Field Methods (taught remote Summer of 2020)
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -166,4 +186,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Amy is a Data Support Specialist at the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. She graduated with her Master’s degree in Geology at Central Washington University in Spring 2025.
+
+Amy began her career as an Assistant Field Geologist with the Washington Geologic Survey, where she spent a year contributing to field mapping and geologic research. She later transitioned to her current role at the NSIDC, one of NASA’s Distributed Active Archive Centers. At the NSIDC, Amy helps manage and disseminate NASA data related to the cryosphere, including data derived from the Soil Moisture Active Passive (SMAP), Aquarius, Scanning Multichannel Microwave Radiometer (SMMR), Special Sensor Microwave/Imager (SSM/I), and Special Sensor Microwave Imager/Sounder (SSMIS) missions. She utilizes her knowledge of these data products to represent the user perspective in data product archival and publication work, and to collaborate directly with users to answer questions/solve problems using NSIDC data.
