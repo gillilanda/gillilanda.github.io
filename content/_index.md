@@ -24,7 +24,7 @@ sections:
         interests: ''
     design:
     # Choose a color such as from https://html-color-codes.info
-      color: 'navy'
+      color: '#16a085'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
       text_color_light: true
       # Apply a gradient background
@@ -32,7 +32,7 @@ sections:
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
+        shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: '📚 My Research'
