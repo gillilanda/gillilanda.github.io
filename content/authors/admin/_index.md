@@ -151,7 +151,7 @@ skills:
         description: ''
         percent: 85
         icon: cloud        
- - name: Collaboration & Communication 
+  - name: Collaboration & Communication 
     items:
       - name: Git & Github
         description: ''
