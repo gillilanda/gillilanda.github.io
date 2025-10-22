@@ -123,18 +123,56 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: R
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: MATLAB
         description: ''
         percent: 85
         icon: cloud
+      - name: ArcGIS (ArcPro, Collector, StoryMaps)
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: QGIS
+        description: ''
+        percent: 85
+        icon: cloud  
+      - name: Unix/Linux
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Wget
+        description: ''
+        percent: 85
+        icon: cloud        
+ - name: Collaboration & Communication 
+    items:
+      - name: Git & Github
+        description: ''
+        percent: 95
+        icon: code-bracket
+      - name: Jira
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Trello
+        description: ''
+        percent: 85
+        icon: cloud        
+      - name: Adobe Illustrator
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Microsoft Suite
+        description: ''
+        percent: 85
+        icon: cloud             
 #  - name: Hobbies
 #    color: '#eeac02'
 #    color_border: '#f0bf23'
@@ -152,11 +190,11 @@ skills:
 #        percent: 70
 #        icon: book-open
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+#languages:
+#  - name: English
+#    percent: 100
+#  - name: Spanish
+#    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
