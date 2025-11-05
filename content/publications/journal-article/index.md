@@ -1,15 +1,15 @@
 ---
-title: "An example journal article"
+title: "Supporting SMAP Data’s Transition to the Cloud at the NASA National Snow and Ice Data Center DAAC"
 authors:
 - admin
-- Robert Ford
+- Lauren Herwehe
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2024-12-09T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
